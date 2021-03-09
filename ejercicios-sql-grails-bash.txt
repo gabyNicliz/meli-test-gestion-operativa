@@ -6,6 +6,7 @@ INNER JOIN costos
 ON (carrier.carrierid = costos.carrierid)
 INNER JOIN cantidad_de_envios as cantidad
 ON (cantidad.zona = costos.zona)
+WHERE cantidad.mes = 1
 ORDER by costos.carrierid;
 
 Resultados:
