@@ -1,0 +1,109 @@
+ej 1 sql query
+
+SELECT carrier.carrierid, carrier.name, cantidad.zona, (carrier.capacity * costos.costo) as costo_total_envio
+FROM carrier
+INNER JOIN costos
+ON (carrier.carrierid = costos.carrierid)
+INNER JOIN cantidad_de_envios as cantidad
+ON (cantidad.zona = costos.zona)
+ORDER by costos.carrierid;
+
+Resultados:
+  Carrier A:
+    AMBA: total  = 100000
+    Bs As: total = 200000
+    Resto: total = 500000
+
+  Carrier B:
+    AMBA: total  = 150000
+    Bs As: total = 190000
+    Resto: total = 550000
+
+  Carrier C:
+    AMBA: total   = 60000
+
+*************************************************************************************************************
+
+ej 2
+                                Presupuesto:  3000000
+
+3000 envíos Carrier C -> AMBA               -   60000
+query:
+  SELECT (costos.costo * (carrier.capacity)) 
+  FROM carrier
+  INNER JOIN costos
+  ON (carrier.carrierid = costos.carrierid)
+  WHERE costos.zona = 'AMBA' AND carrier.name = 'Carrier C';
+
+5000 envíos Carrier B -> Bs As              -   95000
+query:
+  SELECT (costos.costo * (carrier.capacity * 0.5))
+  FROM carrier
+  INNER JOIN costos
+  ON (carrier.carrierid = costos.carrierid)
+  WHERE costos.zona = 'Bs As' AND carrier.name = 'Carrier B';
+
+2000 envíos Carrier B -> AMBA              -    30000
+query:
+  SELECT (costos.costo * (carrier.capacity * 0.2))
+  FROM carrier
+  INNER JOIN costos
+  ON (carrier.carrierid = costos.carrierid)
+  WHERE costos.zona = 'AMBA' AND carrier.name = 'Carrier B';
+
+3000 envíos Carrier B -> Resto              -  110000
+query:
+  SELECT (costos.costo * (carrier.capacity * 0.3))
+  FROM carrier
+  INNER JOIN costos
+  ON (carrier.carrierid = costos.carrierid)
+  WHERE costos.zona = 'Resto' AND carrier.name = 'Carrier B';
+
+3000 envíos Carrier A -> Resto              -  150000
+query:
+  SELECT (costos.costo * (carrier.capacity * 0.3)) 
+  FROM carrier
+  INNER JOIN costos
+  ON (carrier.carrierid = costos.carrierid)
+  WHERE costos.zona = 'Resto' AND carrier.name = 'Carrier A';
+
+3000 envíos Carrier A -> Bs As              -   60000
+query:
+  SELECT (costos.costo * (carrier.capacity * 0.3)) 
+  FROM carrier
+  INNER JOIN costos
+  ON (carrier.carrierid = costos.carrierid)
+  WHERE costos.zona = 'Bs As' AND carrier.name = 'Carrier A';
+
+4000 envíos Carrier A -> AMBA               -   40000
+  SELECT (costos.costo * (carrier.capacity * 0.4)) 
+  FROM carrier
+  INNER JOIN costos
+  ON (carrier.carrierid = costos.carrierid)
+  WHERE costos.zona = 'AMBA' AND carrier.name = 'Carrier A';
+
+                              Presupuesto
+                              usado:           545000
+Cantidad de envìos por zona:
+  AMBA:  9000 envíos
+  Bs As: 8000 envíos
+  Resto: 6000 envíos
+
+*************************************************************************************************************
+
+ej grails
+Se busca hacer un seguimiento de un envío. El output del script es el nombre/id de la sucursal a la cual se dirige el envío, la fecha de entrega, y la descripción del envió.
+
+*************************************************************************************************************
+
+ej bash
+
+#!/bin/bash
+users_id=(71665538 66146765 132961968 15096445 172753273 54152646) // se declara una array de ids de users
+for users_id in ${users_id[*]} // se recorren todos los elementos de la array
+do
+curl=$(curl -s "api.mercadolibre.com/users/$users_id/shipping_preferences" | jq -c '.services') // se accede a los diferentes endpoints usando el id de cada usuario y se devuelve un json de los services
+echo "$users_id: $curl" // se imprime en consola el id del usuario y el json correspondiente
+done // se finaliza el script
+
+El output son 6 lineas, con el formato: user_id: { service_1, service_2, ..., service_n }

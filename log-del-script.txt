@@ -1,0 +1,245 @@
+.LOG
+item_id: MLA863267784,
+item_title: Monitor Dell P2018h Led 20  Negro 100v/240v,
+item_category_id: MLA14407,
+item_category_name: Monitores
+
+item_id: MLA876794922,
+item_title: Impresora Multifunción Lexmark Mb2546adwe Con Wifi 220v Gris Y Blanca,
+item_category_id: MLA1676,
+item_category_name: Impresoras
+
+item_id: MLA876724281,
+item_title: Router Cisco Rv160w-a-k9-ar  Negro 220v,
+item_category_id: MLA430901,
+item_category_name: Routers
+
+item_id: MLA907606600,
+item_title: Impresora Lexmark B2338dw Con Wifi 220v Gris Y Blanca,
+item_category_id: MLA1676,
+item_category_name: Impresoras
+
+item_id: MLA665986505,
+item_title: Servidor Dell T140 Xeon E3-2124 16gb 2tb Reemplazo T130,
+item_category_id: MLA1649,
+item_category_name: PC
+
+item_id: MLA619999038,
+item_title: Ups Apc 550va 3 Tomas Gtia Oficial 2 Años Estabilizador Y Protector De Tension Con Ahorro De Energia,
+item_category_id: MLA1720,
+item_category_name: UPS
+
+item_id: MLA740540307,
+item_title: Servidor Poweredge Dell T40 Xeon E3-1225 8gb 1tb Hd Free Dos,
+item_category_id: MLA1649,
+item_category_name: PC
+
+item_id: MLA837839027,
+item_title: Notebook Laptop Dell I7 10g 32g 256ssd + 480ssd W10 Gforce,
+item_category_id: MLA1652,
+item_category_name: Notebooks
+
+item_id: MLA884735971,
+item_title: Impresora Multifunción Lexmark Mb2442adwe Con Wifi 220v Gris Y Blanca,
+item_category_id: MLA1676,
+item_category_name: Impresoras
+
+item_id: MLA884735636,
+item_title: Router Cisco Rv Series Rv345  Negro 100v/240v,
+item_category_id: MLA430901,
+item_category_name: Routers
+
+item_id: MLA838441150,
+item_title: Servidor Poweredge Dell T40 Xeon E3-2224 16gb 1tb Hd Gtia,
+item_category_id: MLA1649,
+item_category_name: PC
+
+item_id: MLA906171057,
+item_title: Router Linksys Ea-series Ea6100  Negro 100v/240v,
+item_category_id: MLA430901,
+item_category_name: Routers
+
+item_id: MLA898898561,
+item_title: Repetidor, Router, Sistema Wi-fi Mesh Linksys Velop Wifi Intelligent Mesh  Blanco 100v/240v,
+item_category_id: MLA430901,
+item_category_name: Routers
+
+item_id: MLA906671838,
+item_title: Notebook Dell Inspiron Amd Ryzen 5 16gb 256ssd + 1tb Win10,
+item_category_id: MLA1652,
+item_category_name: Notebooks
+
+item_id: MLA870594510,
+item_title: Access Point, Router Linksys Max-stream Ea7300  Negro 100v/240v,
+item_category_id: MLA430901,
+item_category_name: Routers
+
+item_id: MLA696010903,
+item_title: Ups Apc Src2ki-ar 2000va Online Tower Src2ki,
+item_category_id: MLA1720,
+item_category_name: UPS
+
+item_id: MLA685442543,
+item_title: Switch Cisco Sg110-24 24 Puertos Gigabit Rack (ex. Sg100-24),
+item_category_id: MLA1708,
+item_category_name: Switches
+
+item_id: MLA678026676,
+item_title: Switch Cisco 24 Puertos 10/100 Rackeable No Adm Para Hogar Y Empresa - Garantia Oficial - Factura A Y B,
+item_category_id: MLA1708,
+item_category_name: Switches
+
+item_id: MLA814217735,
+item_title: Servidor Dell T140 Xeon E3-2124 32gb 4tb Reemplazo T130,
+item_category_id: MLA1649,
+item_category_name: PC
+
+item_id: MLA896718634,
+item_title: Servidor Poweredge Dell T40 Xeon E3-2224 16gb 2tb Hd Gtia,
+item_category_id: MLA1649,
+item_category_name: PC
+
+item_id: MLA881142835,
+item_title: Notebook Laptop Dell Vostro I5 16gb 1tb + 480ssd 14 Win,
+item_category_id: MLA1652,
+item_category_name: Notebooks
+
+item_id: MLA696009826,
+item_title: Ups Apc 1000va Online Tower Gtia 2 Años,
+item_category_id: MLA1720,
+item_category_name: UPS
+
+item_id: MLA685442693,
+item_title: Switch Cisco 24 Puertos Gigabit Rack 10/100/1000,
+item_category_id: MLA1708,
+item_category_name: Switches
+
+item_id: MLA614270244,
+item_title: Ups Apc 1000va Para Pc Gamer Simil Bx1100 Bv1000i-ar Estabilizador Y Protector De Tension Gtia Oficial 2 Años,
+item_category_id: MLA1720,
+item_category_name: UPS
+
+item_id: MLA701423768,
+item_title: Switch Cisco 8 Puertos Port 10/100/1000 Giga Sg100 Oferta Para Hogar Y Empresa - Garantia Oficial - Factura A Y B,
+item_category_id: MLA1708,
+item_category_name: Switches
+
+item_id: MLA614718493,
+item_title: Ups Apc Bx1100ci Para Tv, Play, Audio, 6 Tomas Estabilizador,
+item_category_id: MLA1720,
+item_category_name: UPS
+
+item_id: MLA896792795,
+item_title: Notebook Laptop Dell Inspiron I3 16gb 1tb + 240ssd Ubuntu,
+item_category_id: MLA1652,
+item_category_name: Notebooks
+
+item_id: MLA663213659,
+item_title: Notebook Laptop Dell Vostro I5 8gb 1tb 14 Win 10pro Teclado Con Ñ Gtia De Tienda Oficial - Factura A / B,
+item_category_id: MLA1652,
+item_category_name: Notebooks
+
+item_id: MLA910712440,
+item_title: Pc Dell I3 4gb 1tb Windows 10 Pro Vostro Gtia Oficial,
+item_category_id: MLA1649,
+item_category_name: PC
+
+item_id: MLA800415301,
+item_title: Servidor Dell T140 Xeon E3-2124 16gb 2tb Reemplazo T130,
+item_category_id: MLA1649,
+item_category_name: PC
+
+item_id: MLA714624323,
+item_title: Switch 24p Cisco Sg350-28 10/100/1000 Sg350-28-k9,
+item_category_id: MLA1708,
+item_category_name: Switches
+
+item_id: MLA910713865,
+item_title: Pc Dell I3 4gb 1tb Windows 10 Pro Vostro Gtia Oficial,
+item_category_id: MLA1649,
+item_category_name: PC
+
+item_id: MLA835811366,
+item_title: Switch Cisco Sg220-26 Gigabit Administrable + 2 Sfp,
+item_category_id: MLA1708,
+item_category_name: Switches
+
+item_id: MLA673321805,
+item_title: Ups Apc 1500va Estabilizador Y Protector De Tension - Alto Rendimiento Para Pc De Hogar Y Oficina Gtia 2años,
+item_category_id: MLA1720,
+item_category_name: UPS
+
+item_id: MLA862050665,
+item_title: Servidor Poweredge Dell T40 Intel E3-2224 16gb 1tb Hd Cuotas,
+item_category_id: MLA1649,
+item_category_name: PC
+
+item_id: MLA614270271,
+item_title: Estabilizador Ups Apc 900va Con Garantia Oficial Para Tv, Play, Equipos De Audio Y Pc Con Ahorro De Energia,
+item_category_id: MLA1720,
+item_category_name: UPS
+
+item_id: MLA835812799,
+item_title: Switch Cisco Sg220-26p Smart Plus 26 Puertos Giga Poe Admin,
+item_category_id: MLA1708,
+item_category_name: Switches
+
+item_id: MLA609714711,
+item_title: Ups Apc Back-ups Pro 550va 230 Estabilizador Y Protector De Tensión Con Ahorro De Energia Gtia Oficial Br550,
+item_category_id: MLA1720,
+item_category_name: UPS
+
+item_id: MLA709978209,
+item_title: Switch 8 Bocas Cisco 8 Puertos 10/100mbps Oferta Para Hogar Y Empresa - Garantia Oficial - Factura A Y B,
+item_category_id: MLA1708,
+item_category_name: Switches
+
+item_id: MLA675284743,
+item_title: Router Cisco Rv160-k9-ar Cisco Rv160 Vpn Smb,
+item_category_id: MLA430901,
+item_category_name: Routers
+
+item_id: MLA835614791,
+item_title: Sf250-48-k9-ar Switch 48p Cisco Sf250-48 10/100 Rack,
+item_category_id: MLA1708,
+item_category_name: Switches
+
+item_id: MLA692519735,
+item_title: Switch Cisco Sf110d-05 5 Puertos 10/100 Sf110 (ex Sf100d-05),
+item_category_id: MLA1708,
+item_category_name: Switches
+
+item_id: MLA609115444,
+item_title: Ups Apc De Alto Rendimiento 1200va Estabilizador Y Protector De Tension Garantía Oficial De 2 Años Ups,
+item_category_id: MLA1720,
+item_category_name: UPS
+
+item_id: MLA835872727,
+item_title: Switch Cisco Sf220-24p Adm 24 Puertos Poe + 2 Giga + 2 Sfp,
+item_category_id: MLA1708,
+item_category_name: Switches
+
+item_id: MLA714578081,
+item_title: Switch 24p Cisco Sg250-26 Giga 10/100/1000 Sg250-26-k9,
+item_category_id: MLA1708,
+item_category_name: Switches
+
+item_id: MLA791968195,
+item_title: Escaner Kodak S2040 Alta Velocidad 600dpi Duplex 5000 X Dia,
+item_category_id: MLA72721,
+item_category_name: Scanners
+
+item_id: MLA881141860,
+item_title: Notebook Laptop Dell Inspiron I3 16gb 1tb + 480ssd 14 Ubu,
+item_category_id: MLA1652,
+item_category_name: Notebooks
+
+item_id: MLA604317175,
+item_title: Ups Apc 800va 6 Tomas Estabilizador Y Protector De Tension Gtia Oficial De 2 Años Para Gamer Bx800 Para Tv, Play,
+item_category_id: MLA1720,
+item_category_name: UPS
+
+item_id: MLA884736096,
+item_title: Router Cisco Rv Series Rv340  Negro 100v/240v,
+item_category_id: MLA430901,
+item_category_name: Routers
